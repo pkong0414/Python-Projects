@@ -1,0 +1,5 @@
+Number of circles: 4
+Number of arrows used: 4
+Total number of checks for all circles combined: 5
+Average number of visits for each circle: 1.00
+Max number of visit for any one circle: 2
